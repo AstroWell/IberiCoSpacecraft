@@ -1,5 +1,5 @@
 # IberiCo Spacecraft
-Part Mod for Kerbal Space Program
+Part Mod for Kerbal Space Program made by Porkjet
 
 Small Crewed Spacecraft and Station Parts Pack
 
@@ -16,19 +16,6 @@ Inflatable Living Spaces:
 
 Rigid Crewed Vessels:
 - 1.875 / 2.5m Cupola
-
-TO DO List:
-- make centrifuges spin
-- Skins Variations
-- a few more Rigid parts to compliment the others
-
-Wish list:
-- IVA's
-
-
-
-
-
 
 # License
 IberiCo Spacecraft is distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
